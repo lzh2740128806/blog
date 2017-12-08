@@ -1,0 +1,9 @@
+# Profile information
+name: lizhenhu
+title: hello
+baseurl: "https://github.com/lzh2740128806/blog" # the subpath of your site, e.g. /blog
+url: "https://github.com/lzh2740128806/blog" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Paginate
+paginate: 5
+paginate_path: /page:num/
