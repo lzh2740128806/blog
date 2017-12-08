@@ -7,3 +7,6 @@ url: "https://lzh2740128806.github.io/blog" # the base hostname & protocol for y
 # Paginate
 paginate: 5
 paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
